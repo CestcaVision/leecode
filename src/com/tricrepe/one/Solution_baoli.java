@@ -1,4 +1,4 @@
-package com.tricrepe.twosums;
+package com.tricrepe.one;
 
 public class Solution_baoli {
     public static int[] twoSums(int[] arr,int target){

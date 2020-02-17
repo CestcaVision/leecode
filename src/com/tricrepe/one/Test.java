@@ -1,4 +1,4 @@
-package com.tricrepe.twosums;
+package com.tricrepe.one;
 
 
 public class Test {

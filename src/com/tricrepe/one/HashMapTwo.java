@@ -1,4 +1,4 @@
-package com.tricrepe.twosums;
+package com.tricrepe.one;
 import java.util.HashMap;
 import java.util.Map;
 
